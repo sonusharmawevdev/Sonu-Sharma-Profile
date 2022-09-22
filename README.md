@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @sonusharmawevdev
 - 👀 I’m interested in Web development
 - 🌱 I’m Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.
+
 - 📫 How to reach me 
-- gamil : sonusharma.webdev@gmail.com
-- Twitter : https://twitter.com/sharmawebdev
-- Github : https://github.com/sonusharmawevdev
-- Linkedin : https://www.linkedin.com/in/sonusharmawevdev/
+
+- :memo: Gamil : sonusharma.webdev@gmail.com
+- :globe_with_meridians: Twitter : https://twitter.com/sharmawebdev
+- :building_construction: Github : https://github.com/sonusharmawevdev
+- :technologist: Linkedin : https://www.linkedin.com/in/sonusharmawevdev/
 
 
 **What I Do?**
