@@ -1,4 +1,5 @@
-![IMG_](https://user-images.githubusercontent.com/113982847/192298999-48ca50c0-e943-4bad-bf11-edd8e9242c8f.jpg)
+![IMG_](https://user-images.githubusercontent.com/113982847/192299263-23d43f40-6e19-4aac-a50c-722d792701db.jpg)
+
 
 
 - 👋 Hi, I’m **@sonusharmawevdev**
