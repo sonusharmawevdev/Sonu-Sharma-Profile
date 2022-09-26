@@ -1,3 +1,6 @@
+
+![IMG_20200713_230445_594](https://user-images.githubusercontent.com/113982847/192298590-560cf549-552a-4f38-9542-c1b970ebd131.jpg)
+
 - 👋 Hi, I’m **@sonusharmawevdev**
 - 👀 I’m interested in Web development
 - 🌱 I’m Software Developer :technologist:  having a special interest in Frontend technologies and experience of building Web applications with Html / Css / Scss / JavaScript / Reactjs  and some other cool libraries and frameworks.
