@@ -1,6 +1,4 @@
 
-![IMG_](https://user-images.githubusercontent.com/113982847/192299477-01d4dc41-323f-43ac-981e-358f67bab81d.jpg)
-
 
 - 👋 Hi, I’m **@sonusharmawevdev**
 - 👀 I’m interested in Web development
