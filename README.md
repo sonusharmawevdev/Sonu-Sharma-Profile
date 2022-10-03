@@ -18,10 +18,7 @@
 - :bookmark: Prepare variety of different designs, layouts and websites.
 - :recycle: Multi-task across multiple functions and roles to generate project results and meet deadlines and organizational expectations.
 - :bug: Plann website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.
-- :pencil2: Convert graphic designs to usable web images using Adobe Photo Shop.
 - :bento: Implement Google-based SEO and ad campaigns to meet budget specifications
-- :busts_in_silhouette: Employ search engine optimization tactics to increase reach of targeted audience
-- :stethoscope: Conduct Unit testing over course of web development lifecycle.
 
 
 **Skills**
