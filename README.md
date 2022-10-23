@@ -29,7 +29,6 @@
 - :white_check_mark: Bootstrap 
 - :white_check_mark: JavaScript
 - :white_check_mark: React Js
-- :white_check_mark: Next Js
 - :white_check_mark: Api's
 - :white_check_mark: Adobe XD
 - :white_check_mark: Git
