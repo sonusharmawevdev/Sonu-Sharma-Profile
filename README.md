@@ -4,6 +4,8 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m Software Developer :technologist:  having a special interest in Frontend technologies and experience of building Web applications with Html / Css / Scss / JavaScript / Reactjs  and some other cool libraries and frameworks.
 
+- I am a quick learner as I am a Graduate and pursuing Post-graduation. I am very passionate about my work and never let you down from my work. This also helps me to increase my creativity. While reading the internship form and requirements for the internship, I felt that my skills are best suited for this internship. I feel that this gives me an advantage as compared to other candidates.
+
 - 📫 How to reach me 
 
 - :memo: Gamil : sonusharma.webdev@gmail.com
