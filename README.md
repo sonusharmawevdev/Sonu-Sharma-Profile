@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m **@sonusharmawevdev**
+- 👋 Hi, I’m **Sonu Sharma**
 - 👀 I’m interested in Web development
 - 🌱 I’m Software Developer :technologist:  having a special interest in Frontend technologies and experience of building Web applications with Html / Css / Scss / JavaScript / Reactjs  and some other cool libraries and frameworks.
 
