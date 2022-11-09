@@ -34,6 +34,7 @@
 - :white_check_mark: Adobe XD
 - :white_check_mark: Git
 - :white_check_mark: Mongodb
+- :Node Js
 
 
 
